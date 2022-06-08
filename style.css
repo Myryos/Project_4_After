@@ -278,7 +278,7 @@ a:hover {
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
-    font-size: 1em;
+    font-size: 2em;
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
@@ -459,11 +459,11 @@ button {
 }
 
 .icon-md {
-    font-size: 1em!important;
+    font-size: 2em!important;
 }
 
 .icon-lg {
-    font-size: 1em!important;
+    font-size: 2em!important;
 }
 
 .sm-shadow {
@@ -509,7 +509,7 @@ button {
 }
 
 .showScrollTop {
-    font-size: 1em;
+    font-size: 2em;
     opacity: 1;
 }
 
@@ -522,7 +522,7 @@ a[data-lightbox] {
 a[data-lightbox]:hover::before {
     content: "+";
     font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial;
-    font-size: 1em;
+    font-size: 2em;
     width: 50px;
     height: 50px;
     margin-left: -25px;
@@ -660,7 +660,7 @@ a {
 }
 
 p {
-    font-size: 1em;
+    font-size: 2em;
 }
 
 .tight-width-whitespace {
@@ -669,7 +669,7 @@ p {
 }
 
 .h1 {
-    font-size: 1em;
+    font-size: 2em;
     font-family: "Open Sans";
 }
 
@@ -693,7 +693,7 @@ h2 {
 }
 
 h3 {
-    font-size: 1em;
+    font-size: 2em;
     text-transform: uppercase;
     font-weight: 700;
     color: #333333!important;
